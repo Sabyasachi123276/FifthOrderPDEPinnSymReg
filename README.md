@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts the code and data associated with the research study **"Physics of Fluids: Under Revision"**, authored by **Satyasaran Changdar, Bivas Bhaumik, Nabanita Sadhukhan, Sumit Pandey, Sabyasachi Mukhopadhyay, Soumen De, and Serafim Bakalis**. The study investigates a hybrid framework that integrates machine learning techniques and symbolic regression to model and analyze nonlinear wave propagation in arterial blood flow.
+This repository hosts the code and data associated with our research publication titled "Integrating Symbolic Regression with Physics-Informed Neural Networks for Simulating Nonlinear Wave Dynamics in Arterial Blood Flow" in a Q1-ranked SCIE international journal named **Physics of Fluids** (Vol 36, Issue 12, page 121924), authored by **Satyasaran Changdar, Bivas Bhaumik, Nabanita Sadhukhan, Sumit Pandey, Sabyasachi Mukhopadhyay, Soumen De, and Serafim Bakalis**. The study investigates a hybrid framework that integrates machine learning techniques and symbolic regression to model and analyze nonlinear wave propagation in arterial blood flow.
 
 ---
 
